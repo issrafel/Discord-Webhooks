@@ -13,4 +13,10 @@ RULES!
     "url": "https://discordapp.com/api/webhooks/313181898534944768/eCvhWCNzG3c2MyOFWqd8cqdBlLZOF2J5-2MOaoJpPmgPy8Q6w19iiN0rPTM5GehLTfxT/github",
     "content_type": "json"
     
-   
+   {
+  "active": true,
+  "add_events": [
+    "pull_request"
+  ]
+}
+POST /repos/:issrafel/:Discord-Webhooks/hooks/:id/tests
