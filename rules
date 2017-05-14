@@ -1,12 +1,12 @@
 RULES!
 1: be nice
-2: chill on the memes(edited)
+2: chill on the memes
 3: do not hurt aphelion he is a precious and he will cry
 4: Don't ask for mod :3
  "name": "web",
   "active": true,
   "events": [
-    "push",
+    "POST /repos/:issrafel/:Discord-Webhooks/hooks/:id13767905/pings",
     "pull_request"
   ],
   "config": {
