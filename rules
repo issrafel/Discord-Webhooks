@@ -20,3 +20,5 @@ RULES!
   ]
 }
 POST /repos/:issrafel/:Discord-Webhooks/hooks/:id13767905/tests
+
+POST /repos/:issrafel/:Discord-Webhooks/hooks/:id13767905/pings
