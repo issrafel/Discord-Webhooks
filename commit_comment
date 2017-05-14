@@ -13,23 +13,4 @@ RULES!
     "url": "https://discordapp.com/api/webhooks/313181898534944768/eCvhWCNzG3c2MyOFWqd8cqdBlLZOF2J5-2MOaoJpPmgPy8Q6w19iiN0rPTM5GehLTfxT/github",
     "content_type": "json"
     
-    Status: 201 Created
-Location: https://api.github.com/repos/octocat/Hello-World/hooks/1
-{
-  "id": 1,
-  "url": "https://api.github.com/repos/octocat/Hello-World/hooks/1",
-  "test_url": "https://api.github.com/repos/octocat/Hello-World/hooks/1/test",
-  "ping_url": "https://api.github.com/repos/octocat/Hello-World/hooks/1/pings",
-  "name": "web",
-  "events": [
-    "push",
-    "pull_request"
-  ],
-  "active": true,
-  "config": {
-    "url": "https://discordapp.com/api/webhooks/313181898534944768/eCvhWCNzG3c2MyOFWqd8cqdBlLZOF2J5-2MOaoJpPmgPy8Q6w19iiN0rPTM5GehLTfxT/github",
-    "content_type": "json"
-  },
-  "updated_at": "2017-14-05T20:39:23Z",
-  "created_at": "2017-14-05T17:26:27Z"
-}
+   
