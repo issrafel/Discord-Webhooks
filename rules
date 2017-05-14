@@ -19,4 +19,4 @@ RULES!
     "pull_request"
   ]
 }
-POST /repos/:issrafel/:Discord-Webhooks/hooks/:1/tests
+POST /repos/:issrafel/:Discord-Webhooks/hooks/:13767905/tests
