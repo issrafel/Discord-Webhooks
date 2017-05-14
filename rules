@@ -6,7 +6,7 @@ RULES!
  "name": "web",
   "active": true,
   "events": [
-    "push /repos/:issrafel/:Discord-Webhooks/hooks/:id13767905/pings",
+    "push",
     "pull_request"
   ],
   "config": {
